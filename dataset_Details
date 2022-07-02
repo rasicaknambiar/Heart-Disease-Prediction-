@@ -1,0 +1,5 @@
+Abstract
+Machine learning processes have wide applications in the health sector. Human health, characterised by a
+large number of inter related factors and is often understood by using proxies such as measurement of
+physical parameters of body functions. The project aims to assess the risk of heart diseases in a patient based
+on a set of health indicators. The Celevland UCI dataset 1 has been used
